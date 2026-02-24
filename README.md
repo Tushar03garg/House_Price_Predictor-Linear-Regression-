@@ -65,9 +65,11 @@ Python
 NumPy
 
 Pandas
+
 Scikit-Learn
 
 ⚙️ Project Workflow
+
 1️⃣ Data Loading
 
 Import dataset
